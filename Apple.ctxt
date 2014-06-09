@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Apple()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ gravity()
+comment3.params=fn
+comment3.target=void\ pop(FruitNinja)
+comment3.text=\r\n\ Pop\ this\ apple.\r\n
+numComments=4

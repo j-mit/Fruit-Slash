@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getReset()
+comment3.params=i
+comment3.target=void\ setReset(int)
+numComments=4

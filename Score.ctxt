@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=mo
+comment0.target=void\ Score(MessageObserver)
+comment1.params=sco\ fw
+comment1.target=void\ notify(int,\ FruitNinja)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=score
+comment4.target=void\ setScore(int)
+comment5.params=score\ fw
+comment5.target=void\ addScore(int,\ FruitNinja)
+numComments=6

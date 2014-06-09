@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Shadow()
+comment1.params=image
+comment1.target=Shadow(greenfoot.GreenfootImage)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
